@@ -3,8 +3,7 @@
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
 - Data Structures and Algorithms Practice (AlgoExpert)
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Hello World!](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Test Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/baileynoelle1/Test-Project/tree/main))
 
 
 
