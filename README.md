@@ -3,7 +3,7 @@
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
 - Data Structures and Algorithms Practice (AlgoExpert)
-  - [Test Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/baileynoelle1/Test-Project/tree/main))
+  - [Test Project](https://github.com/baileynoelle1/Test-Project/tree/main)
 
 
 
