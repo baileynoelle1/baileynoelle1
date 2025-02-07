@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Bioinformatics Projects:</h2>
 
-- Sequencing Data Alignment
-  - [Sequencing Data Alignment](https://github.com/baileynoelle1/Sequencing-Data-Alignment)
+- [Sequencing Data Alignment](https://github.com/baileynoelle1/Sequencing-Data-Alignment)
 
 
 
